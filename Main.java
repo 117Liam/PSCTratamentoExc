@@ -55,4 +55,4 @@ public class Main {
     }
 }
 
-// Solução: Usei o tratamento de exceção para verificar se o usuário colocou um valor negativo no salário, se esse for o caso, criei um loop que sinaliza o erro e pede que o usuário insira um valor positivo. O loop só vai parar quando o usuário inserir um valor positivo. Também coloquem um tratamento de exceção mais geral para qualquer problema que ocorra no programa.
+// Solução: Usei o tratamento de exceção para verificar se o usuário colocou um valor negativo no salário, se esse for o caso, criei um loop que sinaliza o erro e pede que o usuário insira um valor positivo. O loop só vai parar quando o usuário inserir um valor positivo. Também coloquei um tratamento de exceção mais geral para qualquer problema que ocorra no programa.
